@@ -1,0 +1,2256 @@
+{
+  "investing-dojo-stories": [
+    {
+      "id": "the-secret-investment-with-a-22000-percent-return-hiding-in-plain-sight",
+      "title": "The secret investment with a 22,000% return that's hiding in plain sight",
+      "summary": "You think your 10% annual return is good? SOMEBODY SKEWER ME WITH A FORK! A study found some companies are getting a 22,000% return on investment from... lobbying. Yes, you read that right. We'll show you how to use this outrageous fact to become a smarter, more cynical, and ultimately more successful investor.",
+      "full_content": "Alright, listen up! You slave away trying to find an edge, hoping for a 15% winner, and you feel like a king. But what if I told you there's a game being played where the returns are not 15%, not 150%, but 22,000 PERCENT!? It's happening right under our noses, and it's called lobbying.\n\nA study on the American Jobs Creation Act of 2004 found that for every single dollar companies spent lobbying for that tax break, they received £220 in benefits. That is a 22,000% return on investment. I need to lie down. This isn't just some funny number; it's a glaring signpost pointing to which companies have the government in their corner. These are the companies with what Warren Buffett calls a 'moat' – a deep, wide, protective barrier around their business. Sometimes that moat isn't a brand or a patent; it's a line of lobbyists in expensive suits.\n\nSo what does this mean for you and your family's portfolio? It means you need to get cynical, fast! When you're researching a company, don't just look at its P/E ratio. Ask yourself: 'Who are their friends in high places?' A company that can successfully lobby for favourable regulations or tax breaks has a durable competitive advantage that won't show up on a balance sheet. It's a hidden asset.\n\nBut be warned, this isn't about blindly buying companies that spend the most on lobbying. It's about understanding the game. Sometimes, a company spends millions and gets nothing. That's a red flag! You want to find the companies that are ruthlessly efficient with their lobbying spend, just like they are with everything else. This insight transforms you from a passive investor into someone who understands the real machinery of power and money. It's a Green Belt move that separates the amateurs from the pros.",
+      "content_type": "research-method",
+      "belt_levels": [
+        "orange-belt",
+        "green-belt",
+        "blue-belt"
+      ],
+      "curriculum_categories": [
+        "research-analysis",
+        "risk-management",
+        "ai-augmentation"
+      ],
+      "curriculum_alignment": "This serves the curriculum by introducing an advanced research method (analysing non-financial data like lobbying) to identify durable competitive advantages ('moats'), a key concept for Orange and Green Belts. It elevates a student's thinking from purely financial metrics to understanding the political economy in which companies operate.",
+      "prerequisites": {
+        "belt_levels": [
+          "yellow-belt"
+        ],
+        "skills": [
+          "basic company research",
+          "understanding of competitive advantages"
+        ],
+        "experience": "Assumes the user knows how to find basic information about a company and is ready to look at non-traditional data sources.",
+        "prerequisite_concepts_mastered": [
+          "competitive-moats",
+          "risk-basics"
+        ]
+      },
+      "learning_outcomes": [
+        {
+          "outcome": "Analyse a company's lobbying activity as part of a due diligence process.",
+          "belt_relevance": "Orange-belt",
+          "mastery_indicator": "User can find a company's lobbying spend and identify the key issues it's lobbying for.",
+          "assessment_method": "Submit a one-paragraph analysis of a company's lobbying strategy and its potential impact on their business.",
+          "skill_verification_checkpoints": [
+            {
+              "checkpoint": "Identify a company's annual lobbying spend using a public database.",
+              "verification_method": "practice_exercise",
+              "mastery_threshold": "1_successful_lookup"
+            }
+          ]
+        }
+      ],
+      "belt_progression_xp": 80,
+      "next_belt_readiness_score": 80,
+      "suggested_practice_areas": [
+        "due_diligence",
+        "ai_research"
+      ],
+      "ai_skill_level": "basic",
+      "ai_tools_mentioned": [
+        {
+          "tool": "ChatGPT",
+          "application": "Researching political influence",
+          "specific_use_case": "Analyse lobbying data from sources like OpenSecrets.org to understand a company's political strategy.",
+          "example_prompt": "Using data from OpenSecrets.org, what were the top 3 lobbying issues for [Company Name] in the last year, and how much did they spend? Summarise the potential impact of this lobbying on their profitability.",
+          "proficiency_required": "basic",
+          "roi_potential": "High - uncovers hidden risks and advantages.",
+          "expected_time_saved": "1 hour → 5 minutes",
+          "implementation_difficulty": "easy",
+          "free_tier_sufficient": true,
+          "alternative_tools": [
+            "Claude",
+            "Perplexity"
+          ]
+        }
+      ],
+      "ai_roi_potential": "AI can rapidly synthesise data from political spending databases, which are often clunky and hard to search. This allows an investor to assess a company's political 'moat' in minutes instead of hours, dramatically increasing research efficiency.",
+      "ai_implementation_steps": [
+        "Step 1: Go to a public lobbying database like OpenSecrets.org and find the page for your target company.",
+        "Step 2: Copy the key information (spending totals, top issues).",
+        "Step 3: Paste the information into your AI assistant with the prompt: 'Analyse this lobbying data. What are the biggest opportunities and risks for the company based on these political activities?'"
+      ],
+      "ai_pitfalls_warnings": [
+        "AI may not have real-time lobbying data; always check the source date.",
+        "Correlation is not causation; high lobbying spend doesn't guarantee success."
+      ],
+      "investment_domain_primary": "stocks",
+      "investment_domains_secondary": [
+        "portfolio-management"
+      ],
+      "difficulty_level": "intermediate-skill",
+      "complexity_score": 6,
+      "urgency": "timeless",
+      "market_conditions": [
+        "bull-market",
+        "bear-market",
+        "volatile-market"
+      ],
+      "knowledge_graph_nodes": [
+        "lobbying",
+        "competitive moats",
+        "due diligence",
+        "AI research"
+      ],
+      "parent_concepts": [
+        "investment fundamentals",
+        "qualitative analysis"
+      ],
+      "child_concepts": [
+        "regulatory risk",
+        "political advantage"
+      ],
+      "concept_hierarchy_level": "intermediate",
+      "concept_relationships": [
+        {
+          "concept": "competitive-moats",
+          "relationship_type": "builds-upon",
+          "strength": "strong"
+        }
+      ],
+      "pillar_topic_candidates": [
+        "Advanced Company Research",
+        "AI-powered investing"
+      ],
+      "content_cluster_suggestions": [
+        "Uncovering Hidden Assets",
+        "AI Research Mastery"
+      ],
+      "course_module_potential": [
+        "Module 4: Qualitative Analysis Beyond the Numbers"
+      ],
+      "learning_sequence_position": "intermediate",
+      "skill_tree_branches": [
+        "research-mastery",
+        "ai-integration"
+      ],
+      "investor_profile_match": [
+        {
+          "profile": "value-hunter",
+          "relevance_score": 9,
+          "adaptation_notes": "Perfect for deep-dive value investors looking for durable advantages."
+        },
+        {
+          "profile": "aggressive-wealth-builder",
+          "relevance_score": 7,
+          "adaptation_notes": "Can help identify companies with potential for explosive, regulation-driven growth."
+        }
+      ],
+      "life_stage_relevance": [
+        {
+          "stage": "peak-earners",
+          "relevance_score": 9,
+          "specific_benefits": "Provides a sophisticated edge for those managing larger portfolios."
+        },
+        {
+          "stage": "long-term-builders",
+          "relevance_score": 8,
+          "specific_benefits": "Helps identify companies that can survive and thrive for decades due to political influence."
+        }
+      ],
+      "time_horizon_focus": [
+        {
+          "horizon": "long-term-builders",
+          "relevance_score": 9,
+          "implementation_notes": "Lobbying advantages play out over years, not days."
+        }
+      ],
+      "capital_size_relevance": [
+        {
+          "size_category": "100k-500k-optimizers",
+          "relevance_score": 9,
+          "scaling_notes": "The depth of this research is more impactful when deploying significant capital."
+        }
+      ],
+      "experience_assumptions": "Assumes user is comfortable with fundamental analysis and looking for the next level of insight.",
+      "tech_savviness_required": "basic",
+      "learning_style_match": [
+        "analytical",
+        "practical"
+      ],
+      "source": {
+        "podcast_title": "Planet Money",
+        "episode_title": "Summer School 3: How government decides what to spend our money on",
+        "episode_url": "https://www.npr.org/2024/07/23/1197950585/planet-money-summer-school-3-government-spending-budget-debt",
+        "media_url": "d239c4f31c9f_Planet Money_Summer School 3_ How government decides what to spend our money on.mp3",
+        "timestamp": "00:23:45",
+        "host_name": "Robert Smith",
+        "guest_name": "Raquel Alexander",
+        "episode_date": "2024-07-23",
+        "episode_duration": "00:30:00"
+      },
+      "expert_credentials": {
+        "name": "Raquel Alexander",
+        "title": "Tax professor at the University of Kansas",
+        "experience_years": 10,
+        "notable_achievements": [
+          "Co-authored a study quantifying the return on lobbying investment."
+        ],
+        "track_record": "Academic researcher",
+        "credentials": [
+          "PhD"
+        ]
+      },
+      "source_bias_assessment": {
+        "potential_conflicts": [
+          "None apparent; academic source."
+        ],
+        "credibility_score": 9,
+        "verification_needed": [
+          "The 22,000% figure is from a specific 2004 act; returns will vary wildly."
+        ]
+      },
+      "contrarian_viewpoints": [
+        {
+          "viewpoint": "Lobbying spend is a cost that drags on profitability and often yields no results.",
+          "source": "Various corporate governance advocates",
+          "strength": "Medium counter-argument"
+        }
+      ],
+      "learning_pathway_position": {
+        "journey_stage": "application",
+        "pathway_branches": [
+          {
+            "branch_name": "AI Research Mastery",
+            "position": "intermediate",
+            "next_steps": [
+              "Advanced AI Integration"
+            ]
+          }
+        ],
+        "skill_tree_position": "Research Mastery - Qualitative Analysis Branch",
+        "prerequisite_content": [
+          "how-to-read-a-10k"
+        ],
+        "follow_up_content": [
+          "building-a-full-due-diligence-checklist"
+        ]
+      },
+      "curriculum_flow": {
+        "previous_concepts": [
+          "Fundamental analysis",
+          "Basic AI literacy"
+        ],
+        "current_focus": "Analysing qualitative, non-financial data with AI.",
+        "next_progression": [
+          "Integrating multiple alternative data sources."
+        ],
+        "mastery_checkpoints": [
+          "Analyse the lobbying strategy of 5 companies in your portfolio."
+        ]
+      },
+      "family_security_relevance": {
+        "primary_benefit": "By identifying companies with strong political protection, you can build a more resilient, all-weather portfolio, safeguarding family capital against regulatory shocks.",
+        "security_pillars": [
+          "Retirement planning"
+        ],
+        "risk_mitigation": "Helps avoid companies vulnerable to regulatory changes.",
+        "scalability": "This deep research method is highly effective for larger family portfolios."
+      },
+      "generational_wealth_relevance": {
+        "wealth_building_potential": "Investing in companies with durable, politically-enforced moats is a classic strategy for long-term, multi-generational wealth creation.",
+        "teaching_opportunities": "A great lesson for teenagers on how power and money truly interact in the real world, beyond the textbook.",
+        "compound_effect": "Companies with these advantages often compound capital steadily for decades.",
+        "legacy_impact": "Builds a portfolio of resilient companies that can be passed down."
+      },
+      "family_discussion_points": [
+        {
+          "topic": "Should we invest in companies that have 'unfair' advantages because of lobbying?",
+          "age_group": "teenagers",
+          "key_messages": [
+            "Investing requires a pragmatic, not always idealistic, view of the world.",
+            "Understanding how the game is played is key to winning it."
+          ]
+        }
+      ],
+      "children_education_angle": {
+        "age_appropriate_concepts": {
+          "ages_5_10": "Imagine two lemonade stands. One has a friend on the town council who makes sure only they can sell on the busiest street. That's a special advantage!",
+          "ages_11_16": "Let's look up how much a company like Apple or a video game maker spends to talk to the government. Why do you think they do that?",
+          "ages_17_plus": "Let's analyse the return on investment for lobbying spend for a company in our portfolio and debate its ethical implications versus its financial benefits."
+        },
+        "teaching_activities": [
+          "Family 'Lobbyist' Game: Debate for a special privilege (e.g., extra screen time) and see what arguments are most persuasive."
+        ]
+      },
+      "emergency_fund_consideration": "This is an advanced strategy. Ensure your family's 6-month emergency fund is fully funded before deploying capital based on this kind of deep research.",
+      "family_engagement_metrics": {
+        "dinner_table_readiness": 7,
+        "family_financial_conversations": {
+          "starter_questions": [
+            "Do you think it's fair that companies can pay to influence rules?"
+          ],
+          "follow_up_activities": [
+            "Research a company we all know and see who they give money to."
+          ],
+          "success_celebrations": [
+            "When we find a company with a strong political moat, we add a 'castle' sticker to its line in our portfolio tracker."
+          ]
+        },
+        "multi_generational_learning": {
+          "grandparent_wisdom": "Ask grandparents about industries that used to be powerful and what changed.",
+          "parent_application": "Use this method to stress-test our current investments.",
+          "child_understanding": "It's about finding the players who have an extra secret weapon."
+        }
+      },
+      "seasonal_challenge_integration": {
+        "challenge_milestones": [],
+        "peer_comparison": "",
+        "unlock_rewards": []
+      },
+      "scoring": {
+        "curriculum_value": 9,
+        "engagement_score": 9,
+        "practical_score": 8,
+        "ai_innovation_score": 8,
+        "confidence_building": 9,
+        "family_impact": 7,
+        "mastery_potential": 9,
+        "viral_potential": 9,
+        "family_transformation_potential": 8,
+        "habit_formation_strength": 7,
+        "cross_generational_appeal": 8,
+        "community_virality": 9,
+        "revenue_impact": 8
+      },
+      "performance_metrics": {
+        "estimated_read_time": "5 minutes",
+        "complexity_rating": "intermediate",
+        "retention_probability": "high",
+        "application_difficulty": "moderate"
+      },
+      "actionable_practices": [
+        {
+          "practice": "Use an AI tool to analyse the lobbying spend of one company in your portfolio.",
+          "difficulty": "moderate",
+          "time_required": "30 minutes",
+          "expected_outcome": "A clear summary of the company's political risks and advantages.",
+          "success_metrics": "You can articulate the company's lobbying strategy in one sentence.",
+          "belt_xp_value": 20
+        }
+      ],
+      "discussion_prompts": [
+        {
+          "prompt": "After analysing a company's lobbying, do you feel more or less confident in it as a long-term investment? Why?",
+          "purpose": "critical-thinking",
+          "target_belt": "orange-belt",
+          "expected_depth": "2-3 paragraphs"
+        }
+      ],
+      "implementation_checklist": [
+        {
+          "step": "Choose one company from your family portfolio to investigate.",
+          "estimated_time": "2 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Your portfolio list"
+          ]
+        },
+        {
+          "step": "Find the company's profile on a lobbying database like OpenSecrets.org.",
+          "estimated_time": "5 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Web browser"
+          ]
+        },
+        {
+          "step": "Use an AI prompt to summarise the findings.",
+          "estimated_time": "5 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "ChatGPT or similar AI tool"
+          ]
+        },
+        {
+          "step": "Write down one sentence on whether their lobbying is a strength or weakness.",
+          "estimated_time": "3 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Investment journal"
+          ]
+        }
+      ],
+      "spark_content_generation": {
+        "hook_formula": "[Surprising fact] + [Implication] + [Call to action]",
+        "visual_storyboard": [],
+        "engagement_triggers": []
+      },
+      "community_building_features": {
+        "discussion_catalyst": "What's the most outrageous example of lobbying ROI you've ever found?",
+        "peer_challenge_creation": {
+          "challenge_type": "",
+          "invite_mechanism": "",
+          "group_rewards": ""
+        },
+        "mentor_connection": {
+          "mentor_profile_match": [],
+          "mentor_rewards": 0
+        }
+      },
+      "monetization_psychology": {
+        "premium_tease": "Black Belt members get access to our real-time tracker of corporate lobbying and political donations.",
+        "urgency_creation": "",
+        "social_proof": "",
+        "value_stacking": []
+      },
+      "local_chapter_integration": {
+        "geographic_relevance": {
+          "uk_specific": [],
+          "us_specific": []
+        },
+        "local_meetup_hooks": "",
+        "regional_challenges": ""
+      },
+      "email_subject_line": "The 22,000% return you're not looking for",
+      "social_media_hooks": {
+        "twitter": "Forget stocks. The best ROI in America might be lobbying. A 2004 study showed a 22,000% return. Yes, really. Here’s how investors can use this to their advantage. 🧵",
+        "linkedin": "Beyond the P&L: A key indicator of a company's long-term resilience is its political capital. A 22,000% ROI on lobbying for one act highlights the immense value of effective government relations. Are you incorporating this into your due diligence?",
+        "facebook": "Our family was shocked to learn that some companies get a £220 return for every £1 they spend talking to the government! It's a crazy lesson in how the world works, and it's changed how we look at our investments. Here's what we learned..."
+      },
+      "community_engagement": {
+        "discussion_starter": "Is it ethical to invest in companies based on their lobbying power? Debate!",
+        "challenge_prompt": "Find the lobbying spend for a company you own. Share one surprising thing you learned.",
+        "sharing_incentive": "Share this to show your friends a side of the market they've probably never seen."
+      },
+      "app_integration": {
+        "progress_tracking": "Mark 'Lobbying Analysis' skill as complete in the Orange Belt research module.",
+        "notification_trigger": "Have you analysed the political risk in your portfolio this quarter?",
+        "achievement_unlock": "Unlocked: 'Political Animal' Badge"
+      },
+      "podcast_hooks": {
+        "episode_tease": "Next time, we're talking about an investment that returned 22,000 percent. No, that is not a typo.",
+        "deep_dive_potential": "Absolutely. An entire episode on using 'alternative data' like lobbying spend, patent filings, and employee reviews to find an edge.",
+        "expert_interview": "A political strategist or a former lobbyist."
+      },
+      "tags": {
+        "primary": [
+          "research-method",
+          "competitive-advantage"
+        ],
+        "secondary": [
+          "lobbying",
+          "due-diligence",
+          "ai-research"
+        ],
+        "trending": [
+          "alternative-data"
+        ]
+      },
+      "search_keywords": [
+        {
+          "keyword": "how to analyse lobbying spend",
+          "search_volume": "low",
+          "competition": "low",
+          "user_intent": "learning"
+        },
+        {
+          "keyword": "lobbying as competitive advantage",
+          "search_volume": "low",
+          "competition": "low",
+          "user_intent": "learning"
+        }
+      ],
+      "seo_optimisation": {
+        "focus_keyword": "lobbying investment return",
+        "related_terms": [
+          "political capital",
+          "regulatory moat",
+          "alternative data investing"
+        ],
+        "content_gap_filled": "Provides a practical guide for retail investors to analyse lobbying data."
+      },
+      "risk_level": "medium",
+      "risk_factors": [
+        {
+          "risk": "Political winds can change, turning a friendly administration into a hostile one.",
+          "mitigation": "Diversify across industries and don't over-concentrate in politically sensitive sectors.",
+          "severity": "high"
+        },
+        {
+          "risk": "Public backlash against a company's lobbying efforts can damage its brand.",
+          "mitigation": "Assess the nature of the lobbying. Is it for a reasonable tax break or something socially harmful?",
+          "severity": "medium"
+        }
+      ],
+      "time_investment": {
+        "learning_time": "15 minutes",
+        "implementation_time": "30 minutes per company",
+        "ongoing_commitment": "1 hour per quarter"
+      },
+      "capital_requirements": {
+        "minimum_investment": "£0 (research skill)",
+        "recommended_size": "N/A",
+        "scaling_potential": "N/A"
+      },
+      "database_optimization": {
+        "id_generation": "the-secret-investment-with-a-22000-percent-return-hiding-in-plain-sight",
+        "relationship_pre_validation": {
+          "belt_levels": [],
+          "content_types": []
+        },
+        "import_metadata": {
+          "batch_id": "2024-07-29-podcast-batch-001",
+          "quality_check_status": "pending_human_review",
+          "auto_publish": false
+        }
+      },
+      "financial_disclaimer": true,
+      "risk_warnings": [
+        {
+          "warning": "Past lobbying success does not guarantee future results. Political climates are unpredictable.",
+          "severity": "high",
+          "regulatory_requirement": true
+        }
+      ],
+      "educational_disclaimer": "This is educational content, not financial advice. All investment decisions should be made with care and professional guidance if necessary.",
+      "ai_disclaimer": "AI tools can be inaccurate. Always verify information from primary sources."
+    },
+    {
+      "id": "the-secret-economic-report-you-can-use-to-front-run-the-market",
+      "title": "The secret economic report you can use to front-run the market",
+      "summary": "What if you could know what was *really* happening in the economy weeks before the official data drops? You can! It's called the Beige Book, and it's chock-full of gems like the 'shaggy haircut indicator'. This is your new secret weapon.",
+      "full_content": "Forget fancy Wall Street reports. One of the most potent sources of economic intelligence is free, published eight times a year, and almost nobody you know reads it. It's the Federal Reserve's Beige Book, and it's an absolute goldmine of 'scuttlebutt' – on-the-ground stories about the real economy.\n\nWhile economists are waiting for lagging indicators, the Beige Book is telling you what's happening right now. For example, the latest edition noted that a 'Montana salon owner reported that customers were extending time between haircuts.' You might laugh, but that is a powerful, real-time indicator of consumer stress! Are people getting shaggier? Are hat sales up? These are the questions that lead to investment insights!\n\nThe report also mentioned holidaymakers at the Jersey Shore are booking short-term rentals to cook their own meals instead of eating out. BINGO! That tells you consumer discretionary spending is tight. Maybe it's time to check your portfolio for overexposure to restaurants or hotels. This isn't rocket science; it's astute observation, and the Beige Book does the legwork for you.\n\nFor your family's financial plan, this is an incredible tool. Before you make a big investment decision, you can spend 30 minutes with the Beige Book and your AI assistant to get a real feel for the economic climate. It's like sending out a scout to check the terrain before the army moves. This is a classic Yellow Belt to Orange Belt move: stop just reacting to headlines and start using primary sources to form your own, better-informed opinions.",
+      "content_type": "research-method",
+      "belt_levels": [
+        "yellow-belt",
+        "orange-belt"
+      ],
+      "curriculum_categories": [
+        "research-analysis",
+        "ai-augmentation",
+        "systematic-investing"
+      ],
+      "curriculum_alignment": "This story introduces Yellow Belts to the concept of using primary, qualitative economic data. It bridges the gap between basic economic awareness and proactive research, a key step towards Orange Belt mastery. It champions the idea of forming an independent view of the market rather than relying on media narratives.",
+      "prerequisites": {
+        "belt_levels": [
+          "white-belt"
+        ],
+        "skills": [
+          "basic understanding of economic concepts like consumer spending"
+        ],
+        "experience": "Suitable for investors who are ready to move beyond just looking at stock charts and want to understand the broader economic context.",
+        "prerequisite_concepts_mastered": [
+          "market-cycles",
+          "economic-indicators"
+        ]
+      },
+      "learning_outcomes": [
+        {
+          "outcome": "Use the Federal Reserve's Beige Book to identify current economic trends in a specific sector or region.",
+          "belt_relevance": "yellow-belt",
+          "mastery_indicator": "User can extract 3 actionable insights from the latest Beige Book report.",
+          "assessment_method": "Post a short summary of a key trend from the Beige Book in the community forum.",
+          "skill_verification_checkpoints": [
+            {
+              "checkpoint": "Locate and download the latest Beige Book from the Federal Reserve website.",
+              "verification_method": "practice_exercise",
+              "mastery_threshold": "1_successful_download"
+            }
+          ]
+        }
+      ],
+      "belt_progression_xp": 60,
+      "next_belt_readiness_score": 70,
+      "suggested_practice_areas": [
+        "macroeconomic_analysis",
+        "ai_summarization"
+      ],
+      "ai_skill_level": "basic",
+      "ai_tools_mentioned": [
+        {
+          "tool": "Claude",
+          "application": "Document summarisation and analysis",
+          "specific_use_case": "Distil the lengthy Beige Book report into a concise summary of key themes and sector-specific trends.",
+          "example_prompt": "Analyse the attached Federal Reserve Beige Book PDF. Provide a bullet-point summary of the overall economic outlook, and then detail any specific trends mentioned for the retail and travel sectors.",
+          "proficiency_required": "basic",
+          "roi_potential": "Massive. Turns a dense, 30-page report into a 2-minute read.",
+          "expected_time_saved": "1 hour → 2 minutes",
+          "implementation_difficulty": "easy",
+          "free_tier_sufficient": true,
+          "alternative_tools": [
+            "ChatGPT",
+            "Perplexity"
+          ]
+        }
+      ],
+      "ai_roi_potential": "The Beige Book is incredibly valuable but dense. AI obliterates this barrier, allowing any investor to extract the core intelligence in minutes. It democratises access to high-level economic analysis.",
+      "ai_implementation_steps": [
+        "Step 1: Go to the Federal Reserve website and download the latest Beige Book PDF.",
+        "Step 2: Upload the PDF to an AI tool that can read documents, like Claude.",
+        "Step 3: Use a prompt like: 'Summarise this report in 5 bullet points. What are the most surprising anecdotes?'",
+        "Step 4: Ask follow-up questions about sectors relevant to your portfolio, e.g., 'What does it say about manufacturing?'"
+      ],
+      "ai_pitfalls_warnings": [
+        "The Beige Book is anecdotal, not hard data. Use it for directional insight, not precise forecasting.",
+        "Ensure your AI is summarizing the most recent report, not an old one from its training data."
+      ],
+      "investment_domain_primary": "portfolio-management",
+      "investment_domains_secondary": [
+        "stocks"
+      ],
+      "difficulty_level": "foundational",
+      "complexity_score": 4,
+      "urgency": "trending",
+      "market_conditions": [
+        "bull-market",
+        "bear-market",
+        "volatile-market"
+      ],
+      "knowledge_graph_nodes": [
+        "Beige Book",
+        "economic indicators",
+        "consumer spending",
+        "qualitative analysis",
+        "AI summarization"
+      ],
+      "parent_concepts": [
+        "macroeconomics",
+        "investment research"
+      ],
+      "child_concepts": [
+        "leading indicators",
+        "sector analysis"
+      ],
+      "concept_hierarchy_level": "foundational",
+      "concept_relationships": [
+        {
+          "concept": "market-cycles",
+          "relationship_type": "complements",
+          "strength": "strong"
+        }
+      ],
+      "pillar_topic_candidates": [
+        "Economic Analysis for Everyone",
+        "AI Research Tools"
+      ],
+      "content_cluster_suggestions": [
+        "Unconventional Indicators",
+        "AI Research Mastery"
+      ],
+      "course_module_potential": [
+        "Module 2: Reading the Economic Weather"
+      ],
+      "learning_sequence_position": "foundation",
+      "skill_tree_branches": [
+        "research-mastery",
+        "ai-integration"
+      ],
+      "investor_profile_match": [
+        {
+          "profile": "balanced-growth-investor",
+          "relevance_score": 9,
+          "adaptation_notes": "Excellent for making tactical adjustments to a portfolio based on the current economic mood."
+        },
+        {
+          "profile": "family-wealth-builder",
+          "relevance_score": 8,
+          "adaptation_notes": "Helps in understanding the broad economic environment to protect and grow family capital."
+        }
+      ],
+      "life_stage_relevance": [
+        {
+          "stage": "pre-retirees",
+          "relevance_score": 9,
+          "specific_benefits": "Provides timely clues about potential economic slowdowns, crucial for capital preservation near retirement."
+        },
+        {
+          "stage": "family-builders",
+          "relevance_score": 8,
+          "specific_benefits": "Helps make informed decisions about when to be aggressive or defensive with investments."
+        }
+      ],
+      "time_horizon_focus": [
+        {
+          "horizon": "medium-term-investors",
+          "relevance_score": 9,
+          "implementation_notes": "Perfect for making adjustments on a quarterly basis."
+        }
+      ],
+      "capital_size_relevance": [
+        {
+          "size_category": "10k-50k-developers",
+          "relevance_score": 9,
+          "scaling_notes": "An easy-to-implement strategy that adds a layer of sophistication for growing investors."
+        }
+      ],
+      "experience_assumptions": "Beginner-friendly, assumes only a curiosity about how the economy works.",
+      "tech_savviness_required": "basic",
+      "learning_style_match": [
+        "practical",
+        "analytical"
+      ],
+      "source": {
+        "podcast_title": "The Indicator from Planet Money",
+        "episode_title": "How to beach on a budget",
+        "episode_url": "https://www.npr.org/2024/07/26/1198083838/beige-book-federal-reserve-economy-spending-inflation",
+        "media_url": "d8de615caa26_The Indicator from Planet Money_How to beach on a budget.mp3",
+        "timestamp": "00:01:05",
+        "host_name": "Adrian Ma, Robert Smith",
+        "guest_name": null,
+        "episode_date": "2024-07-26",
+        "episode_duration": "00:06:00"
+      },
+      "expert_credentials": {
+        "name": "The Federal Reserve",
+        "title": "United States Central Bank",
+        "experience_years": 100,
+        "notable_achievements": [
+          "Conducting US monetary policy"
+        ],
+        "track_record": "Source of official economic data and commentary.",
+        "credentials": []
+      },
+      "source_bias_assessment": {
+        "potential_conflicts": [
+          "The Fed has a vested interest in portraying the economy in a certain light to manage expectations."
+        ],
+        "credibility_score": 9,
+        "verification_needed": [
+          "Anecdotes should be cross-referenced with hard data as it becomes available."
+        ]
+      },
+      "contrarian_viewpoints": [
+        {
+          "viewpoint": "The Beige Book is just a collection of stories and has no predictive power.",
+          "source": "Efficient Market Hypothesis proponents",
+          "strength": "Medium counter-argument"
+        }
+      ],
+      "learning_pathway_position": {
+        "journey_stage": "foundation",
+        "pathway_branches": [
+          {
+            "branch_name": "Macroeconomic Analysis",
+            "position": "introduction",
+            "next_steps": [
+              "Analysing Inflation Data",
+              "Understanding Interest Rate Cycles"
+            ]
+          }
+        ],
+        "skill_tree_position": "Research Mastery - Macro Analysis Branch",
+        "prerequisite_content": [
+          "what-is-inflation"
+        ],
+        "follow_up_content": [
+          "how-interest-rates-affect-your-portfolio"
+        ]
+      },
+      "curriculum_flow": {
+        "previous_concepts": [
+          "Basic market awareness"
+        ],
+        "current_focus": "Using qualitative primary sources for economic analysis.",
+        "next_progression": [
+          "Analysing quantitative economic reports (CPI, GDP)."
+        ],
+        "mastery_checkpoints": [
+          "Consistently summarise the Beige Book for three consecutive releases."
+        ]
+      },
+      "family_security_relevance": {
+        "primary_benefit": "Acts as an early warning system for the family's finances. Understanding if a slowdown is coming allows a family to cut spending, boost savings, and adjust their investment risk proactively.",
+        "security_pillars": [
+          "Emergency fund",
+          "Retirement planning"
+        ],
+        "risk_mitigation": "Provides a qualitative sense of economic risk, helping to avoid being blindsided by a downturn.",
+        "scalability": "The insights are valuable whether you're investing £100 or £1 million."
+      },
+      "generational_wealth_relevance": {
+        "wealth_building_potential": "Consistently avoiding major drawdowns by heeding economic warnings is a key component of long-term wealth compounding.",
+        "teaching_opportunities": "A fantastic way to teach kids to be observant and think like an economist by looking at the world around them.",
+        "compound_effect": "Small, timely adjustments based on this info can lead to significant outperformance over decades.",
+        "legacy_impact": "Instills a habit of prudent, forward-looking analysis in the next generation."
+      },
+      "family_discussion_points": [
+        {
+          "topic": "Based on the 'shaggy haircut' theory, what signs do we see in our own spending or community that hint at the economy's health?",
+          "age_group": "all-ages",
+          "key_messages": [
+            "Economic data isn't just numbers; it's the sum of everyday stories.",
+            "We can be economic detectives in our own town."
+          ]
+        }
+      ],
+      "children_education_angle": {
+        "age_appropriate_concepts": {
+          "ages_5_10": "If we see lots of empty seats at the pizza place, it might mean people are saving their money. That tells us something about the economy.",
+          "ages_11_16": "Let's be 'Beige Book' reporters for our town. We'll talk to a shop owner or just observe the high street and write down what we think is happening.",
+          "ages_17_plus": "Read the summary of the latest Beige Book for our region. Does it match what you're seeing and hearing among your friends and at your part-time job?"
+        },
+        "teaching_activities": [
+          "Create a 'Family Beige Book' for the month, noting down observations about local economic activity."
+        ]
+      },
+      "emergency_fund_consideration": "If the Beige Book signals a potential downturn, it's a brilliant prompt to review the family emergency fund and ensure it's robust.",
+      "family_engagement_metrics": {
+        "dinner_table_readiness": 9,
+        "family_financial_conversations": {
+          "starter_questions": [
+            "Is the local car boot sale busier or quieter than last year? What does that tell us?"
+          ],
+          "follow_up_activities": [
+            "Next time we go to the supermarket, let's look at what's in other people's trolleys. More brand names or own-brand basics?"
+          ],
+          "success_celebrations": [
+            "For every 'Beige Book' insight we find as a family, we put £1 in the 'Investment Ideas' jar."
+          ]
+        },
+        "multi_generational_learning": {
+          "grandparent_wisdom": "Ask grandparents what things were like before past recessions. What were the warning signs they saw?",
+          "parent_application": "Use the Beige Book as a quarterly check-in on our investment strategy's risk level.",
+          "child_understanding": "We're like spies, gathering secret information about the economy!"
+        }
+      },
+      "seasonal_challenge_integration": {
+        "challenge_milestones": [],
+        "peer_comparison": "",
+        "unlock_rewards": []
+      },
+      "scoring": {
+        "curriculum_value": 9,
+        "engagement_score": 10,
+        "practical_score": 9,
+        "ai_innovation_score": 9,
+        "confidence_building": 10,
+        "family_impact": 10,
+        "mastery_potential": 8,
+        "viral_potential": 8,
+        "family_transformation_potential": 9,
+        "habit_formation_strength": 8,
+        "cross_generational_appeal": 10,
+        "community_virality": 9,
+        "revenue_impact": 7
+      },
+      "performance_metrics": {
+        "estimated_read_time": "4 minutes",
+        "complexity_rating": "foundational",
+        "retention_probability": "high",
+        "application_difficulty": "easy"
+      },
+      "actionable_practices": [
+        {
+          "practice": "Spend 15 minutes using an AI tool to summarise the latest Beige Book.",
+          "difficulty": "easy",
+          "time_required": "15 minutes",
+          "expected_outcome": "A clear, concise understanding of the current US economic mood.",
+          "success_metrics": "You can state the top 3 themes from the report.",
+          "belt_xp_value": 15
+        }
+      ],
+      "discussion_prompts": [
+        {
+          "prompt": "What is one 'unconventional indicator' from your own life that tells you something about the economy?",
+          "purpose": "application",
+          "target_belt": "yellow-belt",
+          "expected_depth": "1-2 paragraphs"
+        }
+      ],
+      "implementation_checklist": [
+        {
+          "step": "Bookmark the Federal Reserve's Beige Book release page.",
+          "estimated_time": "2 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Web browser"
+          ]
+        },
+        {
+          "step": "Set a recurring calendar reminder for the publication dates (8 times a year).",
+          "estimated_time": "3 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Digital calendar"
+          ]
+        },
+        {
+          "step": "Create a template prompt in a text file for your AI tool to summarise the report.",
+          "estimated_time": "5 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Text editor"
+          ]
+        }
+      ],
+      "spark_content_generation": {
+        "hook_formula": "[Secret tool] + [Surprising insight] + [Actionable step]",
+        "visual_storyboard": [],
+        "engagement_triggers": []
+      },
+      "community_building_features": {
+        "discussion_catalyst": "Post your top takeaway from the latest Beige Book!",
+        "peer_challenge_creation": {
+          "challenge_type": "",
+          "invite_mechanism": "",
+          "group_rewards": ""
+        },
+        "mentor_connection": {
+          "mentor_profile_match": [],
+          "mentor_rewards": 0
+        }
+      },
+      "monetization_psychology": {
+        "premium_tease": "Our Gold Belt members get a weekly 'Global Beige Book' summary, covering economic sentiment from Europe and Asia.",
+        "urgency_creation": "",
+        "social_proof": "",
+        "value_stacking": []
+      },
+      "local_chapter_integration": {
+        "geographic_relevance": {
+          "uk_specific": ["The Bank of England's 'Agents' Summary of Business Conditions' is the UK equivalent."],
+          "us_specific": ["Focus on the report from your specific Federal Reserve district."]
+        },
+        "local_meetup_hooks": "At our next London meetup, we'll discuss the latest BoE Agents' Summary.",
+        "regional_challenges": ""
+      },
+      "email_subject_line": "The Fed's secret report (and the 'shaggy haircut' indicator)",
+      "social_media_hooks": {
+        "twitter": "Want to know what the economy is doing before everyone else? Read the Fed's Beige Book. The latest edition mentions people are skipping haircuts to save money. This 'shaggy indicator' is a goldmine for savvy investors. Here’s how to use it:",
+        "linkedin": "Forget lagging data. The Federal Reserve's Beige Book offers real-time, qualitative insights into the economy. For leaders and investors, understanding these on-the-ground stories—like shifts in holiday spending patterns—is crucial for making timely strategic decisions.",
+        "facebook": "We just found the coolest way to teach our kids about the economy! We're reading the Fed's 'Beige Book' together. It's full of simple stories, like people cooking on holiday to save money, that explain big economic trends. It's turned us into family economic detectives!"
+      },
+      "community_engagement": {
+        "discussion_starter": "What's the main takeaway for you from this month's Beige Book?",
+        "challenge_prompt": "Find one anecdote in the Beige Book that relates to a stock you own.",
+        "sharing_incentive": "This is a simple trick that can make anyone a smarter, more informed investor. Share it!"
+      },
+      "app_integration": {
+        "progress_tracking": "Mark 'Beige Book Analysis' skill as complete in Yellow Belt.",
+        "notification_trigger": "New Beige Book is out! Ready to analyse it with your AI assistant?",
+        "achievement_unlock": "Unlocked: 'Economic Detective' Badge"
+      },
+      "podcast_hooks": {
+        "episode_tease": "Next time, we reveal the free, secret government report that can give you an edge on the market.",
+        "deep_dive_potential": "Yes, an episode on 'unconventional economic indicators' and how to find them.",
+        "expert_interview": "A regional Federal Reserve economist."
+      },
+      "tags": {
+        "primary": [
+          "economic-indicators",
+          "research-method"
+        ],
+        "secondary": [
+          "beige-book",
+          "ai-summarization",
+          "consumer-spending"
+        ],
+        "trending": [
+          "qualitative-data",
+          "federal-reserve"
+        ]
+      },
+      "search_keywords": [
+        {
+          "keyword": "how to read the beige book",
+          "search_volume": "medium",
+          "competition": "medium",
+          "user_intent": "learning"
+        },
+        {
+          "keyword": "beige book for investors",
+          "search_volume": "low",
+          "competition": "low",
+          "user_intent": "application"
+        }
+      ],
+      "seo_optimisation": {
+        "focus_keyword": "beige book analysis",
+        "related_terms": [
+          "federal reserve report",
+          "qualitative economic data",
+          "leading economic indicators"
+        ],
+        "content_gap_filled": "Provides a simple, AI-assisted method for retail investors to use the Beige Book."
+      },
+      "risk_level": "low",
+      "risk_factors": [
+        {
+          "risk": "Misinterpreting anecdotal evidence as hard fact.",
+          "mitigation": "Use the Beige Book for context and trend-spotting, not as a standalone signal for a major portfolio change.",
+          "severity": "medium"
+        }
+      ],
+      "time_investment": {
+        "learning_time": "10 minutes",
+        "implementation_time": "15 minutes (eight times a year)",
+        "ongoing_commitment": "2 hours per year"
+      },
+      "capital_requirements": {
+        "minimum_investment": "£0 (research skill)",
+        "recommended_size": "N/A",
+        "scaling_potential": "N/A"
+      },
+      "database_optimization": {
+        "id_generation": "the-secret-economic-report-you-can-use-to-front-run-the-market",
+        "relationship_pre_validation": {
+          "belt_levels": [],
+          "content_types": []
+        },
+        "import_metadata": {
+          "batch_id": "2024-07-29-podcast-batch-001",
+          "quality_check_status": "pending_human_review",
+          "auto_publish": false
+        }
+      },
+      "financial_disclaimer": true,
+      "risk_warnings": [
+        {
+          "warning": "The Beige Book is a collection of anecdotes and not official economic data. It should not be the sole basis for any investment decision.",
+          "severity": "medium",
+          "regulatory_requirement": false
+        }
+      ],
+      "educational_disclaimer": "This is educational content, not financial advice. All investment decisions should be made with care and professional guidance if necessary.",
+      "ai_disclaimer": "AI tools can be inaccurate. Always verify information from primary sources."
+    },
+    {
+      "id": "the-club-thats-terrifying-presidents-and-why-your-portfolio-should-care",
+      "title": "The club that's terrifying presidents and why your portfolio should care",
+      "summary": "There's a new club on the block, and the US isn't invited. It's called BRICS, and it's making world leaders sweat bullets. This isn't just politics; it's a tectonic shift in global money that could impact everything from the US dollar to your SIPP. Ignore it at your family's peril.",
+      "full_content": "For 50 years, the world of money has been run by the G7 – a club of rich, Western countries. They made the rules. But that's changing, and it's changing FAST. A new group, BRICS (Brazil, Russia, India, China, South Africa, and now a bunch of others), is flexing its muscles. And when former President Trump says, 'BRICS was set up to hurt us... to degenerate our dollar,' you know it's a big deal. He's not entirely wrong, but he's missing the bigger picture.\n\nThe real story, as the economist who coined the term 'BRIC' explains, is about global growth. These countries are the new engines of the world economy. The idea that you can solve global problems without them at the table is, in his words, 'idiotically, blatantly obvious.' The rise of BRICS is the single biggest geopolitical story for long-term investors. It's a flashing neon sign that screams: THE WORLD IS BIGGER THAN WALL STREET.\n\nWhat does this mean for your family's wealth? Two massive things. First, diversification. If your entire portfolio is in the UK and the US, you are making a huge bet that the next 30 years will look exactly like the last 30. That's a low-probability bet. Thinking about allocating a small, strategic slice of your ISA or SIPP to a low-cost Indian or Brazilian market ETF is a Blue Belt move. It's about acknowledging where future growth is likely to come from.\n\nSecond, the US dollar. The BRICS nations are actively exploring ways to trade with each other without using the dollar. This 'de-dollarisation' is a slow-moving train, but if it gains speed, it could have enormous consequences for the value of dollar-denominated assets. This isn't a reason to panic, but it is a reason for Brown and Black Belts to start thinking about currency risk and holding assets in multiple currencies. This is about playing chess, not checkers, with your family's future.",
+      "content_type": "mastery-technique",
+      "belt_levels": [
+        "blue-belt",
+        "brown-belt",
+        "black-belt"
+      ],
+      "curriculum_categories": [
+        "systematic-investing",
+        "risk-management",
+        "alternative-investments"
+      ],
+      "curriculum_alignment": "This story elevates the investor's perspective from a national to a global level, a critical transition for Blue Belts and above. It introduces advanced concepts like geopolitical risk, currency diversification, and thematic investing based on global growth shifts. It forces the accomplished investor to confront home-country bias and build a truly global portfolio.",
+      "prerequisites": {
+        "belt_levels": [
+          "green-belt"
+        ],
+        "skills": [
+          "portfolio construction",
+          "understanding of ETFs"
+        ],
+        "experience": "Assumes the investor is comfortable managing their own portfolio and is ready to think about international allocation and macroeconomic themes.",
+        "prerequisite_concepts_mastered": [
+          "diversification",
+          "asset-allocation"
+        ]
+      },
+      "learning_outcomes": [
+        {
+          "outcome": "Articulate the investment thesis for and against allocating capital to BRICS nations.",
+          "belt_relevance": "blue-belt",
+          "mastery_indicator": "User can write a balanced, one-page memo on the opportunities and risks of emerging market investing.",
+          "assessment_method": "Submit the memo for peer review in the community.",
+          "skill_verification_checkpoints": [
+            {
+              "checkpoint": "Identify a low-cost ETF that provides exposure to the Indian market.",
+              "verification_method": "practice_exercise",
+              "mastery_threshold": "1_etf_found"
+            }
+          ]
+        }
+      ],
+      "belt_progression_xp": 90,
+      "next_belt_readiness_score": 90,
+      "suggested_practice_areas": [
+        "geopolitical_analysis",
+        "portfolio_construction"
+      ],
+      "ai_skill_level": "intermediate",
+      "ai_tools_mentioned": [
+        {
+          "tool": "Perplexity",
+          "application": "Comparative economic analysis",
+          "specific_use_case": "Compare long-term growth drivers and risks for BRICS nations versus G7 nations, using real-time data.",
+          "example_prompt": "Create a table comparing the projected GDP growth for the next 5 years, the top 3 exports, and the biggest political risks for India, Brazil, China, and Germany. Cite your sources.",
+          "proficiency_required": "basic",
+          "roi_potential": "High. Condenses hours of complex macroeconomic research into a single query.",
+          "expected_time_saved": "3 hours → 5 minutes",
+          "implementation_difficulty": "easy",
+          "free_tier_sufficient": true,
+          "alternative_tools": [
+            "ChatGPT-4o with browsing",
+            "Claude"
+          ]
+        }
+      ],
+      "ai_roi_potential": "Geopolitical analysis is complex and data-intensive. AI allows an individual investor to perform sophisticated comparative economic analysis that was previously only accessible to institutional analysts, levelling the playing field.",
+      "ai_implementation_steps": [
+        "Step 1: Formulate a clear question about the relative strengths of different economic blocs.",
+        "Step 2: Use an AI tool with real-time data access like Perplexity to gather the information.",
+        "Step 3: Ask the AI to present the information in an easy-to-compare format, like a table.",
+        "Step 4: Use the output to inform a strategic decision about your international asset allocation."
+      ],
+      "ai_pitfalls_warnings": [
+        "Geopolitical situations are volatile and can change faster than AI models are updated.",
+        "Economic forecasts are often wrong. Use them as a guide, not a gospel."
+      ],
+      "investment_domain_primary": "portfolio-management",
+      "investment_domains_secondary": [
+        "stocks",
+        "alternative-investments"
+      ],
+      "difficulty_level": "advanced-mastery",
+      "complexity_score": 8,
+      "urgency": "timeless",
+      "market_conditions": [
+        "bull-market",
+        "bear-market"
+      ],
+      "knowledge_graph_nodes": [
+        "BRICS",
+        "G7",
+        "geopolitics",
+        "de-dollarisation",
+        "emerging markets",
+        "international diversification"
+      ],
+      "parent_concepts": [
+        "macroeconomics",
+        "portfolio theory"
+      ],
+      "child_concepts": [
+        "currency risk",
+        "home country bias"
+      ],
+      "concept_hierarchy_level": "advanced",
+      "concept_relationships": [
+        {
+          "concept": "diversification",
+          "relationship_type": "builds-upon",
+          "strength": "strong"
+        }
+      ],
+      "pillar_topic_candidates": [
+        "Global Investing",
+        "Advanced Risk Management"
+      ],
+      "content_cluster_suggestions": [
+        "The Future of Money",
+        "Building an All-Weather Portfolio"
+      ],
+      "course_module_potential": [
+        "Advanced Course: Global Macro Investing"
+      ],
+      "learning_sequence_position": "advanced",
+      "skill_tree_branches": [
+        "portfolio-construction",
+        "risk-management"
+      ],
+      "investor_profile_match": [
+        {
+          "profile": "aggressive-wealth-builder",
+          "relevance_score": 9,
+          "adaptation_notes": "Emerging markets offer higher growth potential, which aligns with this profile's risk tolerance."
+        },
+        {
+          "profile": "family-wealth-builder",
+          "relevance_score": 8,
+          "adaptation_notes": "Focus on long-term diversification benefits to build a more resilient generational portfolio."
+        }
+      ],
+      "life_stage_relevance": [
+        {
+          "stage": "young-professionals",
+          "relevance_score": 9,
+          "specific_benefits": "Long time horizon allows for riding out the volatility of emerging markets for potentially massive long-term gains."
+        },
+        {
+          "stage": "peak-earners",
+          "relevance_score": 8,
+          "specific_benefits": "Sophisticated diversification strategy for larger, more complex portfolios."
+        }
+      ],
+      "time_horizon_focus": [
+        {
+          "horizon": "generational-planners",
+          "relevance_score": 10,
+          "implementation_notes": "This is a multi-decade theme about the shifting world order."
+        },
+        {
+          "horizon": "long-term-builders",
+          "relevance_score": 9,
+          "implementation_notes": "A 10-20 year view is necessary for this strategy."
+        }
+      ],
+      "capital_size_relevance": [
+        {
+          "size_category": "50k-100k-growers",
+          "relevance_score": 9,
+          "scaling_notes": "At this size, allocating a 5-10% sleeve to international markets becomes a meaningful diversification strategy."
+        }
+      ],
+      "experience_assumptions": "Assumes a high level of investment knowledge and an interest in global macro trends.",
+      "tech_savviness_required": "intermediate",
+      "learning_style_match": [
+        "analytical",
+        "visual"
+      ],
+      "source": {
+        "podcast_title": "The Indicator from Planet Money",
+        "episode_title": "The hottest multilateral club doesn't include the US",
+        "episode_url": "https://www.npr.org/2024/07/19/1197943485/the-hottest-multilateral-club-doesnt-include-the-us",
+        "media_url": "f661508da971_The Indicator from Planet Money_The hottest multilateral club doesn't include the US.mp3",
+        "timestamp": "00:00:55",
+        "host_name": "Adrian Ma, Darian Woods",
+        "guest_name": "Jim O'Neill",
+        "episode_date": "2024-07-19",
+        "episode_duration": "00:07:00"
+      },
+      "expert_credentials": {
+        "name": "Jim O'Neill",
+        "title": "British Economist, former Chairman of Goldman Sachs Asset Management",
+        "experience_years": 40,
+        "notable_achievements": [
+          "Coined the acronym 'BRIC' in 2001"
+        ],
+        "track_record": "Highly influential economist and market commentator.",
+        "credentials": [
+          "PhD in Economics"
+        ]
+      },
+      "source_bias_assessment": {
+        "potential_conflicts": [
+          "As the creator of the BRIC concept, he has a vested interest in its continued relevance."
+        ],
+        "credibility_score": 9,
+        "verification_needed": []
+      },
+      "contrarian_viewpoints": [
+        {
+          "viewpoint": "BRICS nations are too politically unstable and corrupt to be reliable long-term investments; their internal conflicts will prevent them from acting as a coherent bloc.",
+          "source": "Many Western political analysts and investors.",
+          "strength": "Strong counter-argument"
+        }
+      ],
+      "learning_pathway_position": {
+        "journey_stage": "mastery",
+        "pathway_branches": [
+          {
+            "branch_name": "Global Macro Investing",
+            "position": "advanced",
+            "next_steps": [
+              "Currency Hedging Strategies"
+            ]
+          }
+        ],
+        "skill_tree_position": "Portfolio Construction - Global Allocation Branch",
+        "prerequisite_content": [
+          "advanced-asset-allocation"
+        ],
+        "follow_up_content": [
+          "investing-in-frontier-markets"
+        ]
+      },
+      "curriculum_flow": {
+        "previous_concepts": [
+          "Advanced diversification",
+          "Risk analysis"
+        ],
+        "current_focus": "Incorporating geopolitical analysis into portfolio construction.",
+        "next_progression": [
+          "Advanced currency risk management."
+        ],
+        "mastery_checkpoints": [
+          "Construct a model portfolio with a dedicated emerging markets sleeve."
+        ]
+      },
+      "family_security_relevance": {
+        "primary_benefit": "Reduces 'home country bias', a major unrecognised risk in many family portfolios. True diversification across geographies makes a family's wealth more resilient to the decline of any single nation or currency.",
+        "security_pillars": [
+          "Retirement planning"
+        ],
+        "risk_mitigation": "Diversifies political and currency risk away from being 100% concentrated in the UK/US.",
+        "scalability": "This is a key strategy for protecting large pools of family capital."
+      },
+      "generational_wealth_relevance": {
+        "wealth_building_potential": "By investing in the next wave of global growth, you position the family to benefit from major world-changing trends, securing wealth for generations.",
+        "teaching_opportunities": "Teaches the next generation to think globally and avoid a narrow, home-country-centric view of the world.",
+        "compound_effect": "Higher growth rates in emerging economies can lead to supercharged compounding over 20-30 years.",
+        "legacy_impact": "Creates a forward-looking, globally-minded investment philosophy for the family."
+      },
+      "family_discussion_points": [
+        {
+          "topic": "What percentage of our family's investments should be outside our home country? What are we comfortable with?",
+          "age_group": "young-adults",
+          "key_messages": [
+            "Diversification is the only free lunch in investing.",
+            "Investing globally requires accepting different kinds of risks."
+          ]
+        }
+      ],
+      "children_education_angle": {
+        "age_appropriate_concepts": {
+          "ages_5_10": "Our money is in a team. If we put all our money on just the UK team, what happens if they have a bad day? It's better to have money on a few good teams all over the world.",
+          "ages_11_16": "Let's look at a map. Where are the most people? Where are they building new cities and new technology? That's where money could grow fastest in the future.",
+          "ages_17_plus": "Let's debate the pros and cons of investing 10% of our portfolio in an Indian Nifty 50 ETF versus the S&P 500. Analyse growth, risk, and currency."
+        },
+        "teaching_activities": [
+          "Have each family member 'adopt' a BRICS country for a month and report back on interesting news or developments."
+        ]
+      },
+      "emergency_fund_consideration": "International investing can be volatile. A rock-solid emergency fund is non-negotiable before taking on this higher level of risk.",
+      "family_engagement_metrics": {
+        "dinner_table_readiness": 6,
+        "family_financial_conversations": {
+          "starter_questions": [
+            "If you had to invest in a country for the next 50 years, which would you pick and why?"
+          ],
+          "follow_up_activities": [
+            "Track the performance of the US S&P 500 vs the Indian Nifty 50 for three months."
+          ],
+          "success_celebrations": [
+            "When we make our first international investment, we celebrate with a meal from that country."
+          ]
+        },
+        "multi_generational_learning": {
+          "grandparent_wisdom": "Ask grandparents about their experiences with different currencies or investing abroad.",
+          "parent_application": "Review our current portfolio for home country bias and develop a plan to slowly diversify.",
+          "child_understanding": "Don't put all your eggs in one country's basket."
+        }
+      },
+      "seasonal_challenge_integration": {
+        "challenge_milestones": [],
+        "peer_comparison": "",
+        "unlock_rewards": []
+      },
+      "scoring": {
+        "curriculum_value": 10,
+        "engagement_score": 8,
+        "practical_score": 8,
+        "ai_innovation_score": 9,
+        "confidence_building": 9,
+        "family_impact": 9,
+        "mastery_potential": 10,
+        "viral_potential": 7,
+        "family_transformation_potential": 10,
+        "habit_formation_strength": 7,
+        "cross_generational_appeal": 8,
+        "community_virality": 8,
+        "revenue_impact": 9
+      },
+      "performance_metrics": {
+        "estimated_read_time": "6 minutes",
+        "complexity_rating": "advanced-mastery",
+        "retention_probability": "high",
+        "application_difficulty": "challenging"
+      },
+      "actionable_practices": [
+        {
+          "practice": "Calculate the percentage of your family's investment portfolio that is located outside your home country (international allocation).",
+          "difficulty": "moderate",
+          "time_required": "30 minutes",
+          "expected_outcome": "A clear understanding of your current home country bias.",
+          "success_metrics": "You have a single percentage number representing your international exposure.",
+          "belt_xp_value": 25
+        }
+      ],
+      "discussion_prompts": [
+        {
+          "prompt": "What is a greater long-term risk to your portfolio: the volatility of emerging markets or the potential stagnation of developed markets?",
+          "purpose": "critical-thinking",
+          "target_belt": "blue-belt",
+          "expected_depth": "3-4 paragraphs"
+        }
+      ],
+      "implementation_checklist": [
+        {
+          "step": "Analyse your portfolio for home country bias.",
+          "estimated_time": "30 minutes",
+          "difficulty": "moderate",
+          "resources_needed": [
+            "Portfolio statements"
+          ]
+        },
+        {
+          "step": "Research low-cost ETFs for emerging markets that are accessible in the UK (UCITS).",
+          "estimated_time": "1 hour",
+          "difficulty": "moderate",
+          "resources_needed": [
+            "JustETF.com or similar screener"
+          ]
+        },
+        {
+          "step": "Decide on a target international allocation (e.g., 10%, 20%).",
+          "estimated_time": "15 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Family discussion"
+          ]
+        },
+        {
+          "step": "If appropriate, make a small, initial investment to begin building the position.",
+          "estimated_time": "15 minutes",
+          "difficulty": "easy",
+          "resources_needed": [
+            "Brokerage account"
+          ]
+        }
+      ],
+      "spark_content_generation": {
+        "hook_formula": "[Alarming statement] + [Geopolitical shift] + [Portfolio implication]",
+        "visual_storyboard": [],
+        "engagement_triggers": []
+      },
+      "community_building_features": {
+        "discussion_catalyst": "What's your target international allocation and why?",
+        "peer_challenge_creation": {
+          "challenge_type": "",
+          "invite_mechanism": "",
+          "group_rewards": ""
+        },
+        "mentor_connection": {
+          "mentor_profile_match": [],
+          "mentor_rewards": 0
+        }
+      },
+      "monetization_psychology": {
+        "premium_tease": "Our Black Belt macro reports provide monthly updates on the BRICS vs G7 dynamic and specific investment strategies.",
+        "urgency_creation": "",
+        "social_proof": "",
+        "value_stacking": []
+      },
+      "local_chapter_integration": {
+        "geographic_relevance": {
+          "uk_specific": ["How does Brexit fit into this shifting world order?"],
+          "us_specific": ["How does a weakening dollar impact US-based investors?"]
+        },
+        "local_meetup_hooks": "Let's debate: Is London's status as a financial hub threatened by the rise of the East?",
+        "regional_challenges": ""
+      },
+      "email_subject_line": "The club your portfolio needs to join (that you can't)",
+      "social_media_hooks": {
+        "twitter": "The G7 used to run the world. Now, the BRICS club is rewriting the rules. If your portfolio is 100% in the US/UK, you're betting on the past. The biggest risk today might be ignoring the rest of the world. 🌍",
+        "linkedin": "The rise of the BRICS is more than a political headline; it's the most significant macroeconomic shift for long-term investors today. It challenges our assumptions about diversification, currency risk, and the future of global growth. Is your strategy adapted for this new multipolar world?",
+        "facebook": "We had a big talk as a family last night about where our money is invested. Turns out, it's almost all in the UK and US! We're learning about the BRICS countries (like India and Brazil) and why it might be smart to invest a little bit in the world's future growth engines. A bit scary, but also exciting!"
+      },
+      "community_engagement": {
+        "discussion_starter": "Which BRICS country do you believe has the most investment potential for the next decade? Make your case.",
+        "challenge_prompt": "Research and share one exciting company headquartered in a BRICS nation.",
+        "sharing_incentive": "This is a high-level concept that will make your friends see you as a seriously sophisticated investor. Share the knowledge."
+      },
+      "app_integration": {
+        "progress_tracking": "Complete 'Geopolitical Analysis' module in the Blue Belt.",
+        "notification_trigger": "Major BRICS summit next week. A good time to review your international allocation.",
+        "achievement_unlock": "Unlocked: 'Global Visionary' Badge"
+      },
+      "podcast_hooks": {
+        "episode_tease": "Is the US dollar's reign coming to an end? Next time, we talk about the alliance that's trying to make it happen.",
+        "deep_dive_potential": "Absolutely. A whole series on 'Investing in a Multipolar World'.",
+        "expert_interview": "A geopolitical strategist like Peter Zeihan or an emerging markets fund manager."
+      },
+      "tags": {
+        "primary": [
+          "geopolitics",
+          "portfolio-management"
+        ],
+        "secondary": [
+          "brics",
+          "emerging-markets",
+          "diversification",
+          "de-dollarisation"
+        ],
+        "trending": [
+          "multipolar-world"
+        ]
+      },
+      "search_keywords": [
+        {
+          "keyword": "how to invest in brics",
+          "search_volume": "medium",
+          "competition": "medium",
+          "user_intent": "learning"
+        },
+        {
+          "keyword": "international diversification strategy",
+          "search_volume": "high",
+          "competition": "high",
+          "user_intent": "application"
+        }
+      ],
+      "seo_optimisation": {
+        "focus_keyword": "brics investment strategy",
+        "related_terms": [
+          "emerging market etf",
+          "de-dollarisation portfolio",
+          "global asset allocation"
+        ],
+        "content_gap_filled": "Connects the geopolitical headline of BRICS to practical portfolio actions for retail investors."
+      },
+      "risk_level": "high",
+      "risk_factors": [
+        {
+          "risk": "Emerging markets are subject to extreme political instability, currency devaluation, and lower corporate governance standards.",
+          "mitigation": "Use low-cost, diversified ETFs instead of picking individual stocks, and keep the allocation as a small, considered part of a wider portfolio.",
+          "severity": "high"
+        },
+        {
+          "risk": "The 'BRICS' narrative may be more hype than reality, with the nations failing to act cohesively.",
+          "mitigation": "Invest based on the individual fundamentals of countries like India, not just the 'BRICS' label.",
+          "severity": "medium"
+        }
+      ],
+      "time_investment": {
+        "learning_time": "1 hour",
+        "implementation_time": "2 hours",
+        "ongoing_commitment": "2 hours per quarter for review"
+      },
+      "capital_requirements": {
+        "minimum_investment": "£1000",
+        "recommended_size": "£10000+",
+        "scaling_potential": "High"
+      },
+      "database_optimization": {
+        "id_generation": "the-club-thats-terrifying-presidents-and-why-your-portfolio-should-care",
+        "relationship_pre_validation": {
+          "belt_levels": [],
+          "content_types": []
+        },
+        "import_metadata": {
+          "batch_id": "2024-07-29-podcast-batch-001",
+          "quality_check_status": "pending_human_review",
+          "auto_publish": false
+        }
+      },
+      "financial_disclaimer": true,
+      "risk_warnings": [
+        {
+          "warning": "Investing in emerging markets carries significant risks, including political instability, currency fluctuations, and potential for capital loss. It is not suitable for all investors.",
+          "severity": "high",
+          "regulatory_requirement": true
+        }
+      ],
+      "educational_disclaimer": "This is educational content, not financial advice. All investment decisions should be made with care and professional guidance if necessary.",
+      "ai_disclaimer": "AI tools can be inaccurate. Always verify information from primary sources."
+    }
+  ],
+  "episode_summary": {
+    "total_stories_extracted": 3,
+    "overall_curriculum_quality": 9,
+    "primary_belt_focus": [
+      "yellow-belt",
+      "orange-belt",
+      "blue-belt"
+    ],
+    "curriculum_coverage": {
+      "mindset_discipline": 7,
+      "ai_augmentation": 9,
+      "research_analysis": 10,
+      "family_security": 8,
+      "risk_management": 9,
+      "systematic_investing": 8,
+      "valuation_mastery": 5,
+      "options_strategies": 0,
+      "crypto_fundamentals": 0,
+      "alternative_investments": 7
+    },
+    "ai_integration_opportunities": {
+      "tools_mentioned": [
+        "ChatGPT",
+        "Claude",
+        "Perplexity"
+      ],
+      "implementation_difficulty": "easy",
+      "roi_potential": "high",
+      "barriers_identified": [
+        "Trusting AI summaries of complex topics"
+      ]
+    },
+    "family_security_impact": {
+      "wealth_building_potential": "High - the stories provide methods for both risk mitigation (Beige Book, lobbying analysis) and enhanced growth (BRICS).",
+      "risk_mitigation": "High - focuses on understanding the environment and company specifics to avoid unforced errors.",
+      "generational_value": "High - teaches foundational principles of economic awareness and global thinking."
+    },
+    "engagement_metrics": {
+      "entertainment_value": 9,
+      "practical_applicability": 9,
+      "community_discussion_potential": 9,
+      "social_sharing_likelihood": 8
+    },
+    "curriculum_gaps_identified": [
+      "Valuation techniques",
+      "Specific entry/exit tactics"
+    ],
+    "follow_up_content_suggestions": [
+      "A guide to UK-accessible Emerging Market ETFs",
+      "How to analyse the Bank of England's Agents' Summary"
+    ],
+    "expert_credibility": {
+      "average_expertise_level": 9,
+      "track_record_strength": 9,
+      "teaching_ability": 9
+    }
+  },
+  "lookup_data_definitions": {
+    "curriculum_categories": [
+      {
+        "name": "mindset-discipline",
+        "description": "Psychology, emotional control, and mental frameworks for successful investing",
+        "parent_category_id": null,
+        "display_order": 1
+      },
+      {
+        "name": "ai-augmentation",
+        "description": "Integration of AI tools and techniques to enhance investment research and decision-making",
+        "parent_category_id": null,
+        "display_order": 2
+      },
+      {
+        "name": "research-analysis",
+        "description": "Systematic approaches to company research, valuation, and market analysis",
+        "parent_category_id": null,
+        "display_order": 3
+      },
+      {
+        "name": "valuation-mastery",
+        "description": "Advanced techniques for determining intrinsic value and fair price of investments",
+        "parent_category_id": "research-analysis",
+        "display_order": 1
+      },
+      {
+        "name": "corporate-governance",
+        "description": "Analysis of management quality, capital allocation, and company leadership",
+        "parent_category_id": "research-analysis",
+        "display_order": 2
+      },
+      {
+        "name": "risk-management",
+        "description": "Capital preservation strategies, position sizing, and portfolio protection techniques",
+        "parent_category_id": null,
+        "display_order": 4
+      },
+      {
+        "name": "family-security",
+        "description": "Investment strategies specifically designed for building family financial security and generational wealth",
+        "parent_category_id": null,
+        "display_order": 5
+      },
+      {
+        "name": "systematic-investing",
+        "description": "Process-driven, repeatable investment approaches and system development",
+        "parent_category_id": null,
+        "display_order": 6
+      },
+      {
+        "name": "options-strategies",
+        "description": "Advanced options techniques for income generation, hedging, and portfolio enhancement",
+        "parent_category_id": "systematic-investing",
+        "display_order": 1
+      },
+      {
+        "name": "portfolio-construction",
+        "description": "Strategic asset allocation, diversification, and portfolio optimization techniques",
+        "parent_category_id": "systematic-investing",
+        "display_order": 2
+      },
+      {
+        "name": "alternative-investments",
+        "description": "Non-traditional investment vehicles including crypto, REITs, commodities, and private markets",
+        "parent_category_id": null,
+        "display_order": 7
+      },
+      {
+        "name": "crypto-fundamentals",
+        "description": "Cryptocurrency analysis, DeFi strategies, and digital asset integration",
+        "parent_category_id": "alternative-investments",
+        "display_order": 1
+      },
+      {
+        "name": "tax-optimization",
+        "description": "Tax-efficient investing strategies, account structures, and wealth preservation",
+        "parent_category_id": "family-security",
+        "display_order": 1
+      }
+    ],
+    "belt_levels": [
+      {
+        "name": "white-belt",
+        "description": "Investment fundamentals and mindset foundation",
+        "order": 1
+      },
+      {
+        "name": "yellow-belt",
+        "description": "Basic analysis and AI tool integration",
+        "order": 2
+      },
+      {
+        "name": "orange-belt",
+        "description": "Systematic research and portfolio construction",
+        "order": 3
+      },
+      {
+        "name": "green-belt",
+        "description": "Advanced strategies and risk management",
+        "order": 4
+      },
+      {
+        "name": "blue-belt",
+        "description": "Options mastery and alternative investments",
+        "order": 5
+      },
+      {
+        "name": "brown-belt",
+        "description": "AI integration and systematic optimization",
+        "order": 6
+      },
+      {
+        "name": "black-belt",
+        "description": "Teaching others and generational wealth building",
+        "order": 7
+      }
+    ],
+    "content_types": [
+      {
+        "name": "curriculum-war-story",
+        "description": "Battle-tested lessons from market experience"
+      },
+      {
+        "name": "ai-breakthrough",
+        "description": "Cutting-edge AI applications in investing"
+      },
+      {
+        "name": "systematic-strategy",
+        "description": "Process-driven investment approaches"
+      },
+      {
+        "name": "family-wealth-builder",
+        "description": "Multi-generational wealth creation stories"
+      },
+      {
+        "name": "mastery-technique",
+        "description": "Advanced skills for experienced investors"
+      },
+      {
+        "name": "mindset-hack",
+        "description": "Psychology and behaviour modification techniques"
+      },
+      {
+        "name": "research-method",
+        "description": "Company analysis and market research approaches"
+      },
+      {
+        "name": "risk-lesson",
+        "description": "Capital preservation and risk management stories"
+      },
+      {
+        "name": "belt-progression-moment",
+        "description": "Skill development and mastery milestones"
+      },
+      {
+        "name": "generational-wealth-wisdom",
+        "description": "Long-term family financial security strategies"
+      }
+    ],
+    "investor_profiles": [
+      {
+        "name": "conservative-income-seeker",
+        "description": "Investors focused on steady income generation with capital preservation as primary goal"
+      },
+      {
+        "name": "balanced-growth-investor",
+        "description": "Investors seeking mix of growth and income with moderate risk tolerance"
+      },
+      {
+        "name": "aggressive-wealth-builder",
+        "description": "Investors willing to take higher risks for potentially higher returns and rapid wealth accumulation"
+      },
+      {
+        "name": "options-income-generator",
+        "description": "Investors focused on generating monthly income through systematic options strategies"
+      },
+      {
+        "name": "crypto-pioneer",
+        "description": "Investors heavily focused on cryptocurrency and digital asset opportunities"
+      },
+      {
+        "name": "ai-first-investor",
+        "description": "Investors who prioritise AI tools and data-driven approaches in their investment process"
+      },
+      {
+        "name": "family-wealth-builder",
+        "description": "Investors focused on multi-generational wealth creation and family financial security"
+      },
+      {
+        "name": "tax-optimizer",
+        "description": "High-income investors prioritising tax-efficient strategies and wealth preservation"
+      },
+      {
+        "name": "value-hunter",
+        "description": "Investors focused on finding undervalued companies with strong fundamentals"
+      },
+      {
+        "name": "growth-momentum-trader",
+        "description": "Investors targeting high-growth companies with strong price momentum"
+      }
+    ],
+    "life_stages": [
+      {
+        "name": "young-professionals",
+        "description": "Early career individuals building their first investment portfolios"
+      },
+      {
+        "name": "family-builders",
+        "description": "Individuals with young families focusing on education funding and family security"
+      },
+      {
+        "name": "peak-earners",
+        "description": "High-income individuals in their prime earning years with significant investment capital"
+      },
+      {
+        "name": "pre-retirees",
+        "description": "Individuals approaching retirement balancing growth with capital preservation"
+      },
+      {
+        "name": "early-retirees-fire",
+        "description": "Individuals pursuing Financial Independence, Retire Early strategies"
+      },
+      {
+        "name": "retirees",
+        "description": "Individuals in retirement focusing on income generation and wealth preservation"
+      },
+      {
+        "name": "wealth-preservers",
+        "description": "High-net-worth individuals focused on protecting and transferring generational wealth"
+      },
+      {
+        "name": "career-changers",
+        "description": "Mid-career professionals transitioning industries or starting businesses"
+      }
+    ],
+    "time_horizons": [
+      {
+        "name": "day-traders",
+        "description": "Investors with very short-term horizons, holding positions for hours or days"
+      },
+      {
+        "name": "swing-traders",
+        "description": "Investors with short to medium-term horizons, holding positions for weeks to months"
+      },
+      {
+        "name": "quarterly-tacticians",
+        "description": "Investors making tactical adjustments based on quarterly market cycles"
+      },
+      {
+        "name": "annual-strategists",
+        "description": "Investors with 1-2 year investment horizons focused on annual themes"
+      },
+      {
+        "name": "medium-term-investors",
+        "description": "Investors with 2-7 year horizons focused on cyclical and growth opportunities"
+      },
+      {
+        "name": "long-term-builders",
+        "description": "Investors with 7-20 year horizons focused on compounding and wealth building"
+      },
+      {
+        "name": "generational-planners",
+        "description": "Investors with 20+ year horizons focused on multi-generational wealth transfer"
+      },
+      {
+        "name": "monthly-income-seekers",
+        "description": "Investors focused on generating consistent monthly cash flow regardless of time horizon"
+      }
+    ],
+    "capital_sizes": [
+      {
+        "name": "under-1k-starters",
+        "description": "Beginning investors with less than £1,000 focusing on building habits and knowledge",
+        "min_amount": 0,
+        "max_amount": 999
+      },
+      {
+        "name": "1k-10k-builders",
+        "description": "Growing investors with £1,000 to £10,000 learning systematic approaches",
+        "min_amount": 1000,
+        "max_amount": 9999
+      },
+      {
+        "name": "10k-50k-developers",
+        "description": "Developing investors with £10,000 to £50,000 implementing intermediate strategies",
+        "min_amount": 10000,
+        "max_amount": 49999
+      },
+      {
+        "name": "50k-100k-growers",
+        "description": "Established investors with £50,000 to £100,000 accessing advanced strategies",
+        "min_amount": 50000,
+        "max_amount": 99999
+      },
+      {
+        "name": "100k-500k-optimizers",
+        "description": "Sophisticated investors with £100,000 to £500,000 requiring advanced techniques",
+        "min_amount": 100000,
+        "max_amount": 499999
+      },
+      {
+        "name": "500k-1m-strategists",
+        "description": "High-net-worth investors with £500,000 to £1,000,000 focusing on optimization",
+        "min_amount": 500000,
+        "max_amount": 999999
+      },
+      {
+        "name": "1m-plus-preservers",
+        "description": "Ultra-high-net-worth investors with £1,000,000+ focused on wealth preservation",
+        "min_amount": 1000000,
+        "max_amount": null
+      }
+    ],
+    "ai_tools": [
+      {
+        "name": "ChatGPT-4o",
+        "description": "OpenAI's advanced multimodal AI for complex financial analysis and research",
+        "category": "research-assistant"
+      },
+      {
+        "name": "Claude-3-Opus",
+        "description": "Anthropic's most capable AI for detailed analysis, reasoning, and code generation",
+        "category": "research-assistant"
+      },
+      {
+        "name": "Perplexity-Pro",
+        "description": "AI-powered search engine with real-time data access for market research",
+        "category": "research-assistant"
+      },
+      {
+        "name": "Custom-AI-Screeners",
+        "description": "Personalized AI tools for filtering and ranking investment opportunities",
+        "category": "screening"
+      },
+      {
+        "name": "AI-Earnings-Analyzer",
+        "description": "Specialized AI for parsing earnings calls and extracting key insights",
+        "category": "research-assistant"
+      },
+      {
+        "name": "Options-Flow-AI",
+        "description": "AI tools for analyzing unusual options activity and institutional flows",
+        "category": "options-analysis"
+      },
+      {
+        "name": "Crypto-Sentiment-AI",
+        "description": "AI tools for analyzing cryptocurrency sentiment and social media trends",
+        "category": "crypto-analysis"
+      },
+      {
+        "name": "Portfolio-Optimizer-AI",
+        "description": "AI-powered portfolio construction and risk management tools",
+        "category": "portfolio-management"
+      },
+      {
+        "name": "AI-Backtesting-Platforms",
+        "description": "Tools using AI to test investment strategies against historical data",
+        "category": "strategy-testing"
+      }
+    ],
+    "concepts": [
+      {
+        "name": "compound-interest",
+        "description": "The process by which an asset's earnings generate additional earnings over time",
+        "concept_type": "pillar"
+      },
+      {
+        "name": "risk-management",
+        "description": "Systematic approaches to identifying, assessing, and mitigating investment risks",
+        "concept_type": "pillar"
+      },
+      {
+        "name": "intrinsic-value",
+        "description": "The actual worth of a company based on its fundamental business characteristics",
+        "concept_type": "pillar"
+      },
+      {
+        "name": "diversification",
+        "description": "Risk reduction through spreading investments across different assets, sectors, and strategies",
+        "concept_type": "parent"
+      },
+      {
+        "name": "dollar-cost-averaging",
+        "description": "Investment strategy of buying fixed amounts at regular intervals regardless of price",
+        "concept_type": "node"
+      },
+      {
+        "name": "options-pricing",
+        "description": "Mathematical models for determining the fair value of options contracts",
+        "concept_type": "node"
+      },
+      {
+        "name": "implied-volatility",
+        "description": "Market's expectation of future volatility embedded in options prices",
+        "concept_type": "node"
+      },
+      {
+        "name": "covered-calls",
+        "description": "Options strategy involving selling call options on owned stock for income",
+        "concept_type": "child"
+      },
+      {
+        "name": "protective-puts",
+        "description": "Options strategy using put options to limit downside risk on stock positions",
+        "concept_type": "child"
+      },
+      {
+        "name": "dcf-analysis",
+        "description": "Valuation method based on projecting future cash flows and discounting to present value",
+        "concept_type": "node"
+      },
+      {
+        "name": "roic-analysis",
+        "description": "Measuring how efficiently a company uses capital to generate profits",
+        "concept_type": "node"
+      },
+      {
+        "name": "competitive-moats",
+        "description": "Sustainable competitive advantages that protect a company's profitability",
+        "concept_type": "parent"
+      },
+      {
+        "name": "bitcoin-fundamentals",
+        "description": "Understanding Bitcoin as digital gold and store of value properties",
+        "concept_type": "node"
+      },
+      {
+        "name": "defi-protocols",
+        "description": "Decentralized finance applications for lending, borrowing, and yield generation",
+        "concept_type": "cluster"
+      },
+      {
+        "name": "tax-loss-harvesting",
+        "description": "Strategy of realizing losses to offset taxable gains and reduce tax burden",
+        "concept_type": "node"
+      }
+    ],
+    "market_conditions": [
+      {
+        "name": "bull-market",
+        "description": "Rising market with investor optimism and economic growth"
+      },
+      {
+        "name": "bear-market",
+        "description": "Declining market with pessimism and economic contraction"
+      },
+      {
+        "name": "volatile-market",
+        "description": "High price fluctuations with uncertain direction"
+      },
+      {
+        "name": "sideways-market",
+        "description": "Range-bound trading with minimal long-term direction"
+      },
+      {
+        "name": "recession-market",
+        "description": "Economic downturn with reduced business activity"
+      },
+      {
+        "name": "recovery-market",
+        "description": "Post-recession growth phase with improving fundamentals"
+      }
+    ],
+    "difficulty_levels": [
+      {
+        "name": "foundational",
+        "description": "Basic concepts suitable for beginners"
+      },
+      {
+        "name": "intermediate-skill",
+        "description": "Moderate complexity requiring some experience"
+      },
+      {
+        "name": "advanced-mastery",
+        "description": "Complex strategies for experienced investors"
+      }
+    ],
+    "urgency_types": [
+      {
+        "name": "timeless",
+        "description": "Evergreen principles that remain relevant indefinitely"
+      },
+      {
+        "name": "trending",
+        "description": "Current market themes and popular strategies"
+      },
+      {
+        "name": "seasonal",
+        "description": "Time-sensitive opportunities with cyclical patterns"
+      },
+      {
+        "name": "urgent",
+        "description": "Immediate action required due to market conditions"
+      }
+    ],
+    "investment_domains": [
+      {
+        "name": "stocks",
+        "description": "Individual company equity investments and analysis"
+      },
+      {
+        "name": "options",
+        "description": "Derivative contracts for income and risk management"
+      },
+      {
+        "name": "crypto",
+        "description": "Cryptocurrency and digital asset investments"
+      },
+      {
+        "name": "bonds",
+        "description": "Fixed income securities and debt instruments"
+      },
+      {
+        "name": "REITs",
+        "description": "Real Estate Investment Trusts and property exposure"
+      },
+      {
+        "name": "commodities",
+        "description": "Physical goods and commodity-linked investments"
+      },
+      {
+        "name": "portfolio-management",
+        "description": "Asset allocation and diversification strategies"
+      },
+      {
+        "name": "alternative-investments",
+        "description": "Non-traditional investment vehicles and strategies"
+      }
+    ],
+    "relationship_types": [
+      {
+        "name": "prerequisite",
+        "description": "Must be understood before learning this concept"
+      },
+      {
+        "name": "builds-upon",
+        "description": "Extends or advances the related concept"
+      },
+      {
+        "name": "complements",
+        "description": "Works well together with the related concept"
+      },
+      {
+        "name": "conflicts",
+        "description": "Contradicts or opposes the related concept"
+      }
+    ],
+    "concept_types": [
+      {
+        "name": "pillar",
+        "description": "Fundamental principle supporting multiple strategies"
+      },
+      {
+        "name": "parent",
+        "description": "Broad category containing multiple sub-concepts"
+      },
+      {
+        "name": "node",
+        "description": "Specific technique or strategy"
+      },
+      {
+        "name": "child",
+        "description": "Detailed implementation of a parent concept"
+      },
+      {
+        "name": "cluster",
+        "description": "Group of related techniques or strategies"
+      }
+    ],
+    "learning_styles": [
+      {
+        "name": "visual",
+        "description": "Learns best through charts, diagrams, and visual representations"
+      },
+      {
+        "name": "analytical",
+        "description": "Prefers data-driven explanations and logical reasoning"
+      },
+      {
+        "name": "practical",
+        "description": "Learns through hands-on application and real examples"
+      },
+      {
+        "name": "social",
+        "description": "Benefits from group discussions and peer interaction"
+      },
+      {
+        "name": "sequential",
+        "description": "Prefers step-by-step structured learning paths"
+      }
+    ],
+    "tech_savviness_levels": [
+      {
+        "name": "basic",
+        "description": "Comfortable with email and basic web browsing"
+      },
+      {
+        "name": "intermediate",
+        "description": "Can learn new apps and use multiple platforms"
+      },
+      {
+        "name": "advanced",
+        "description": "Comfortable with APIs, automation, and complex tools"
+      }
+    ],
+    "age_groups": [
+      {
+        "name": "ages_5_10",
+        "description": "Primary school children learning money basics"
+      },
+      {
+        "name": "ages_11_16",
+        "description": "Secondary school students ready for investing concepts"
+      },
+      {
+        "name": "ages_17_plus",
+        "description": "Adults capable of full investment complexity"
+      },
+      {
+        "name": "teenagers",
+        "description": "13-19 year olds with part-time jobs and savings goals"
+      },
+      {
+        "name": "young-adults",
+        "description": "20-35 year olds starting careers and families"
+      },
+      {
+        "name": "all-ages",
+        "description": "Universal concepts suitable for family discussions"
+      }
+    ]
+  },
+  "story_templates": {
+    "curriculum_war_story": {
+      "structure": "Problem → Costly Mistake → Hard-Won Lesson → Family Application",
+      "tone": "Honest, vulnerable, educational",
+      "key_elements": [
+        "Personal failure",
+        "Financial cost",
+        "Systematic solution",
+        "Teaching moment"
+      ]
+    },
+    "ai_breakthrough": {
+      "structure": "Old Way → AI Discovery → Implementation → Results → Family Scaling",
+      "tone": "Excited, practical, accessible",
+      "key_elements": [
+        "Time/effort savings",
+        "Specific tools",
+        "Step-by-step process",
+        "Measurable outcomes"
+      ]
+    },
+    "family_wealth_builder": {
+      "structure": "Family Challenge → Strategy Discovery → Implementation → Compound Results → Legacy Impact",
+      "tone": "Inspiring, multigenerational, secure",
+      "key_elements": [
+        "Family dynamics",
+        "Long-term thinking",
+        "Teaching opportunities",
+        "Wealth transfer"
+      ]
+    }
+  }
+}

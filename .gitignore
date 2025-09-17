@@ -1,0 +1,61 @@
+# Environment variables and configuration
+.env*
+!.env.crewai.example
+
+# API Keys and secrets
+*API_KEY*
+*SECRET*
+*PASSWORD*
+*TOKEN*
+
+# Database credentials
+*DB_*
+*DATABASE*
+*USER*
+*PASSWORD*
+
+# Logs and temporary files
+logs/
+temp_processing/
+*.log
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archive files (keep structure but not contents)
+archive/*.sql
+archive/test-transcripts/
+archive/temp_processing/
+
+# Batch files (may contain sensitive paths)
+*.bat
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Test files with sensitive data
+test_*_sensitive*
+*test*password*
+*test*secret*

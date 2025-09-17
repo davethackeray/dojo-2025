@@ -1,0 +1,9 @@
+{
+  "task_name": "InvestingDojo-Daily-Automation",
+  "schedule_time": "09:00",
+  "batch_file": "C:\\xampp\\htdocs\\investingDojo\\automation\\run_daily_automation.bat",
+  "automation_script": "C:\\xampp\\htdocs\\investingDojo\\automation\\COMPLETE_DAILY_AUTOMATION.py",
+  "created_date": "2025-07-29T14:52:31.716334",
+  "python_executable": "C:\\Python313\\python.exe",
+  "project_directory": "C:\\xampp\\htdocs\\investingDojo\\automation"
+}
